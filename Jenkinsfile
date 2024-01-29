@@ -1,4 +1,4 @@
-echo "Ahmet kraldir bunu bilin ı"
+echo "Fenerbahce şampiyon"
 node {
     stage('checkout'){
     powershell 'dir'
